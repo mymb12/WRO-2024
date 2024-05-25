@@ -1,5 +1,5 @@
 # Here we present the project for WRO(World Robot Olympiad)
-> here we push all the source code of this project
+> here we post all the source code of this project
 
 ## What does this robot do?
 The highlight of our robot - is addressing the `issue of ice on the roads`.
