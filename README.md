@@ -10,8 +10,11 @@ Robot consists of special type of sensors, namely:
 
 1.**Camera** :video_camera:
 
-Camera detects the human/animal moves, which provides the safety for the environtment among robot.
-
+Camera detects the human/animal moves, which provides the safety for the environtment among the robot.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> The code for the camera tracking is written in the python 3.11 for raspberry pi 4
+
+1. **Motor wheels** :red_car:
+
+The wheels have independent axes. It makes the robot more flexible in the town. Also, the roughness of the wheels is enough for comfortable movement around the city.
